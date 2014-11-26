@@ -6,15 +6,15 @@ npm install -g grunt-cli
 
 ##Tasks
 
-#Jshint
+###Jshint
 
 -Lints your JavaScript files
 
-#Concat
+###Concat
 
 -Concatenates many JavaScript files into one.
 
-#Uglify
+###Uglify
 
 -Minifies JavaScript source
 
