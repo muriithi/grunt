@@ -1,0 +1,13 @@
+{
+	"name" :"gruntexample",
+	"description":"Javascript Grunt Example",
+	"version": "0.0.1",
+	"private":"true",	
+	"devDependencies":{
+		"grunt":"*",
+		"grunt-contrib-jshint" :"*",
+		"grunt-contrib-uglify":"*",
+		"grunt-contrib-concat":"*"		
+	},
+	
+}
